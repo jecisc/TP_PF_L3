@@ -1,0 +1,2 @@
+Le TP a été dans l'ensemble fini. 
+La question 1é ne marche pas. Il y a un problème avec la gestion du crochet fermant il me semble.
